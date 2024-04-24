@@ -48,7 +48,7 @@ It's better to include also the context leading to the discovery of the problem,
 
 *It would certainly be better if those keys once pressed lead to nothing as an action.*
 
-## Current configuration & environment 
+## Current configuration & environment: 
 > What is the technical context of the problem? A list could be a well-describing format. It should include as many meaningful information as possible, such as the Operating System, the softwares that could interact or get in the way.
 
 ---
@@ -60,7 +60,7 @@ It's better to include also the context leading to the discovery of the problem,
 `setxkbmap -layout us -variant intl`
 + *hardware side: ecpgpp qwerty lafayette layout configured thanks to this repo:* [il-as/qmk_userspace](https://github.com/il-as/qmk_userspace)
 
-# Potential leads [optional section]
+# Potential leads [optional section]:
 > If you have clues on what's happening, or some ideas or resources that could be useful to solve the problem or design a solution, write it here.
 
 ---
