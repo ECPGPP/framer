@@ -70,7 +70,7 @@ It's better to include also the context leading to the discovery of the problem,
 
 Well done, you succesfully written some beautiful issue! Your teammates will admire you and thank you for the bliss it is to work with someone so clear and profesionnal!
 
-# Framer, a tool to help you writing your issues ===
+# Framer, a tool to help you writing your issues
 
 ## What is framer?
 
