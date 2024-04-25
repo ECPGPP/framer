@@ -6,13 +6,15 @@ Anyway, how to write beautiful issues leading to faster and better understanding
 
 ## What is the purpose of this project?
 
-This document aims to be a pretty generic and easy to use template to write issues in any tech-related project. It is centered around a bug reporting starter, but can be modified to satisfy any case. This README provides explanations of the several sections meant to clarify what's your issue's about.
+This project aims to be a pretty generic and easy to use template toolbox to write issues in any tech-related project. For now it is centered around a bug reporting starter kit, but can be modified to satisfy any case.
 
 ## How to use this project?
 
-A virgin version will be available in this repository. You simply have to copy/paste this template as a skeletton to write your issues. This README is a manual to learn to use it, we provides exemple in *italic* for each sections.
+An empty version is available in this repository. You simply have to copy/paste this template as a skeletton to write your issues. There is also a version explained, kind of a manual to know how to use it.
+Also there's Framer, a very simple bash script acting as a cli tool to generate such issues with the said template.
 
-### You currently have access to:
+### The templates: 
+You currently have access to:
 + [A guide to fill a template of an issue to report problems](https://github.com/ECPGPP/framer/blob/main/problem-reporting-flavored-template-explained.md)
 + [An empty template of an issue to report problems](https://github.com/ECPGPP/framer/blob/main/problem-reporting-flavored-template-empty.md)
 
@@ -25,7 +27,7 @@ Well done, you succesfully written some beautiful issue! Your teammates will adm
 
 # Framer, a tool to help you writing your issues
 
-## What is framer?
+## What is Framer?
 
 Based on the guidelines described above, Framer helps you to fill the different sections and then generate a clean markdown file in your folder. Framer is a pretty straightforward bash script which comes with minor disagreements.
 
@@ -41,7 +43,7 @@ Simply execute the script wherever you want to, then check your freshly generate
 Framer is just a bash script generating a file, named issue.md. If an error was made during the typing process, you can correct it by hand while editing your said file with your favorite IDE/text editor (I guess it's neovim).
 
 ## Pro tips:
-We recommand a markdown cli viewer like Glow to enjoy your md files directly in your terminal.
+We recommand a markdown cli viewer like Glow to enjoy the view of your .md files directly in your terminal.
 You would do so by typing :
 
 ```bash
@@ -50,9 +52,10 @@ cat issue.md | glow
 
 [Glow github](https://github.com/charmbracelet/glow)
 
+# Screenshots 
 ---
-
 ![Framer Demo](framer-demo.png)
+---
 ![Framer into Glow](issue-glow.png)
 
 
