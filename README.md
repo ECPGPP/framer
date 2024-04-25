@@ -13,8 +13,8 @@ This document aims to be a pretty generic and easy to use template to write issu
 A virgin version will be available in this repository. You simply have to copy/paste this template as a skeletton to write your issues. This README is a manual to learn to use it, we provides exemple in *italic* for each sections.
 
 ### You currently have access to:
-+ [A guide to fill a template of an issue to report problems]()
-+ [An empty template of an issue to report problems]()
++ [A guide to fill a template of an issue to report problems](https://github.com/ECPGPP/framer/blob/main/problem-reporting-flavored-template-explained.md)
++ [An empty template of an issue to report problems](https://github.com/ECPGPP/framer/blob/main/problem-reporting-flavored-template-empty.md)
 
 ## Is it that good to apply this template? 
 We have seen so often energy and time waisted just to grasp once more the once clear problem. Poorly written, methodless issues are the very root of poor handling capability of one's brain on one problem. This cause artificial increase in difficulty to solve the problem, meaning increase level of fatigue, inneficiency, delays, stress and so on. A well described problem is a well inited solution. Just test it for IT's sake.
