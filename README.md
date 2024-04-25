@@ -1,5 +1,3 @@
-============ ecpgpp-issue-premium-template ============
-
 # Introduction
 
 In this world, lots of problems occur due to poorly written issues. It's very often the lack of context or a badly described problem which leads to awful non efficient solution design, sometimes it can even lead to a complete loss of the initial subject. 
