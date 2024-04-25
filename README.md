@@ -95,6 +95,6 @@ cat issue.md | glow
 ======================================================
 
 ![Framer Demo](framer-demo.png)
-![Framer into Glow](issue-Glow.png)
+![Framer into Glow](issue-glow.png)
 
 
