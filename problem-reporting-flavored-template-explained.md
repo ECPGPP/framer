@@ -1,3 +1,6 @@
+> Here is a template for problem/bug reporting. It can be easily adapted to suit other cases. As an exemple, a scenario of a misbehaving keyboard has been chosen.
+
+---
 # Context 
 ## What is the problem? 
 > Description of the problem as observed by the victim. **ANYBODY** should be able to understand this part, don't be overtechnical.
