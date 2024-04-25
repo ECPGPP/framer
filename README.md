@@ -16,7 +16,7 @@ A virgin version will be available in this repository. You simply have to copy/p
 We have seen so often energy and time waisted just to grasp once more the once clear problem. Poorly written, methodless issues are the very root of poor handling capability of one's brain on one problem. This cause artificial increase in difficulty to solve the problem, meaning increase level of fatigue, inneficiency, delays, stress and so on. A well described problem is a well inited solution. Just test it for IT's sake.
 Furthermore, issues or more specifically bug reportings are often unprecise, incomplete, non perfect. The better it's described, the less we have to guess the missing pieces.
 
-            ====================== TEMPLATE ======================
+# ====================== TEMPLATE ======================
 
 # Context 
 ## What is the problem? 
@@ -66,7 +66,7 @@ It's better to include also the context leading to the discovery of the problem,
 
 *I think that the deadkey + h, j, k or l must involve the outputting of a 6 somehow, maybe even a shift and 6, and so the regular shortcut command is beiing produced and displaces the window in wk6*
 
-            ================== END OF TEMPLATE ===================
+# ================== END OF TEMPLATE ===================
 
 Well done, you succesfully written some beautiful issue! Your teammates will admire you and thank you for the bliss it is to work with someone so clear and profesionnal!
 
