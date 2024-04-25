@@ -50,7 +50,7 @@ cat issue.md | glow
 
 [Glow github](https://github.com/charmbracelet/glow)
 
-======================================================
+---
 
 ![Framer Demo](framer-demo.png)
 ![Framer into Glow](issue-glow.png)
