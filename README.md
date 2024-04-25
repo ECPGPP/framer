@@ -4,13 +4,17 @@ In this world, lots of problems occur due to poorly written issues. It's very of
 I mean, look at the global warming resulting of the decline of pirates. 
 Anyway, how to write beautiful issues leading to faster and better understanding of the problem? Works with your team, or your future self
 
-## What is the purpose of this document?
+## What is the purpose of this project?
 
 This document aims to be a pretty generic and easy to use template to write issues in any tech-related project. It is centered around a bug reporting starter, but can be modified to satisfy any case. This README provides explanations of the several sections meant to clarify what's your issue's about.
 
-## How to use that document?
+## How to use this project?
 
 A virgin version will be available in this repository. You simply have to copy/paste this template as a skeletton to write your issues. This README is a manual to learn to use it, we provides exemple in *italic* for each sections.
+
+### You currently have access to:
++ [A guide to fill a template of an issue to report problems]()
++ [An empty template of an issue to report problems]()
 
 ## Is it that good to apply this template? 
 We have seen so often energy and time waisted just to grasp once more the once clear problem. Poorly written, methodless issues are the very root of poor handling capability of one's brain on one problem. This cause artificial increase in difficulty to solve the problem, meaning increase level of fatigue, inneficiency, delays, stress and so on. A well described problem is a well inited solution. Just test it for IT's sake.
