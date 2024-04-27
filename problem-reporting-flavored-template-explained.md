@@ -1,14 +1,14 @@
-> Here is a template for problem/bug reporting. It can be easily adapted to suit other cases. As an exemple, a scenario of a misbehaving keyboard has been chosen.
+> Here is a template for problem/bug reporting. It can be easily adapted to suit other cases. As an example, a scenario of a misbehaving keyboard has been chosen.
 
 ---
 # Context 
 ## What is the problem? 
 > Description of the problem as observed by the victim. **ANYBODY** should be able to understand this part, don't be overtechnical.
-It's better to include also the context leading to the discovery of the problem, it might help to figure out how to reproduce the said problem and understand why would someone encouter that problem.
+It's better to include also the context leading to the discovery of the problem, it might help to figure out how to reproduce the said problem and understand why someone would encouter that problem.
 
 ---
 
-*Discovered bug when I wanted to move some window with my i3 shortcuts : combination of key strokes triggers unwated behavior.*
+*Discovered bug when I wanted to move some window with my i3 shortcuts : combination of key strokes triggers unwanted behavior.*
 
 ### Unwanted behavior:
 
@@ -27,17 +27,17 @@ It's better to include also the context leading to the discovery of the problem,
 
 ---
 
-*It would certainly be better if those keys once pressed lead to nothing as an action.*
+*It would certainly be better if those keys once pressed led to nothing as an action.*
 
 ## Current configuration & environment: 
-> What is the technical context of the problem? A list could be a well-describing format. It should include as many meaningful information as possible, such as the Operating System, the softwares that could interact or get in the way.
+> What is the technical context of the problem? A list could be a well-describing format. It should include as much meaningful information as possible, such as the Operating System, the softwares that could interact or get in the way.
 
 ---
 
 + *Linux Manjaro*
 + *i3 window manager*
 + *Keychron Q11 QMK US ansi keyboard*
-+ *OS side: set an US international layout using setxkbmap:*
++ *OS side: set a US international layout using setxkbmap:*
 `setxkbmap -layout us -variant intl`
 + *hardware side: ecpgpp qwerty lafayette layout configured thanks to this repo:* [il-as/qmk_userspace](https://github.com/il-as/qmk_userspace)
 
@@ -46,5 +46,5 @@ It's better to include also the context leading to the discovery of the problem,
 
 ---
 
-*I think that the deadkey + h, j, k or l must involve the outputting of a 6 somehow, maybe even a shift and 6, and so the regular shortcut command is beiing produced and displaces the window in wk6*
+*I think that the deadkey + h, j, k or l must involve the outputting of a 6 somehow, maybe even a shift and 6, and so the regular shortcut command is being produced and displaces the window in wk6*
 
